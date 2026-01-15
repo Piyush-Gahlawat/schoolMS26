@@ -16,5 +16,5 @@ public class SchoolManagementSystemApplication {
     @GetMapping
     public String helloWorld(){
         return "Hello World";
-}
+    }
 }
